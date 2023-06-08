@@ -150,8 +150,10 @@ The resource representations in REST consist of three main components:
     
 2. **Metadata:** Metadata provides additional information about the resource. It includes details such as the resource's creation date, last modification timestamp, author, format, or any other relevant information that helps in understanding and managing the resource.
     
-3. **Hypermedia Links**: Hypermedia links are links embedded within the resource representation and serve as navigational cues, providing discoverable links for clients. With these links, clients can dynamically explore the API, interacting with related resources.
+3. **Hypermedia Links**: Hypermedia links are links embedded within the resource representation and serve as navigational cues, providing discoverable links for clients.
     
+
+> Roy Fielding states that only APIs that employ hypermedia links meet the criteria for being considered genuine REST applications. True REST devices are those that utilize HATEOAS (Hypermedia as the Engine of Application State). However, it is worth noting that many popular APIs do not incorporate hypermedia.
 
 Together, these components provide a comprehensive package, enabling clients to understand and manipulate the API's resources effectively.
 
