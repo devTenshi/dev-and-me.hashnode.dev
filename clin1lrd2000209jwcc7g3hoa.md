@@ -1,12 +1,12 @@
 ---
 title: "REST APIs."
-seoTitle: "Rest apis"
+seoTitle: "Rest APIs"
 seoDescription: "All about rest api principles, restful apis and authentication methods"
 datePublished: Thu Jun 08 2023 11:15:44 GMT+0000 (Coordinated Universal Time)
 cuid: clin1lrd2000209jwcc7g3hoa
 slug: all-about-rest-principles-restful-apis-authentication-methods
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1684765886063/5d7442f1-7602-4512-afdb-fb77e44eb50e.jpeg
-tags: authentication, backend, authorization, apis, rest-api
+tags: backend, apis, webdev, 2articles1week, programming-tips
 
 ---
 
@@ -188,7 +188,7 @@ Applying this knowledge aids the development of efficient, scalable, and interop
 
 My next article will be on the implementation of RESTful APIs, building with Express and MySQL as database management systems.
 
-Thanks for reading ✅
+Thanks for reading ✅ You can connect with me on [**Twitter**](https://twitter.com/geoan_g) and [**LinkedIn**](https://www.linkedin.com/in/georgeangel1/).
 
 ## Resources
 
