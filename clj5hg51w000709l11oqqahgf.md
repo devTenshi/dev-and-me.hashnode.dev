@@ -9,8 +9,6 @@ tags: ubuntu, mongodb, databases, command-line, 2articles1week
 
 ---
 
-## Introduction
-
 As an Ubuntu user and command line-savvy developer, you understand the significance of a scalable and efficient database for your applications.
 
 For Ubuntu applications, it's crucial to have a dependable database solution that doesn't strain system resources or require constant switching between GUI applications. If you prefer working conveniently on the terminal with command-line tools, MongoDB Shell is the perfect choice.
@@ -157,7 +155,7 @@ db.createCollection('name of the collection')
 
 ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1687246655932/ad76ff51-47a6-42f3-8ec3-ca301da6485d.png align="center")
 
-Kindly pay attention to the **ReferenceError!**⛔. To create the collection 'books', please use `db.createCollection('books')` instead of the `bookstore.createCollection('books')`. This will ensure the correct reference and avoid any errors.
+Kindly pay attention to the \*\*ReferenceError!\*\*⛔. To create the collection 'books', please use `db.createCollection('books')` instead of the `bookstore.createCollection('books')`. This will ensure the correct reference and avoid any errors.
 
 Having successfully created our collection, it's time to insert our data.
 
